@@ -1,5 +1,12 @@
 # @computesdk/workbench
 
+## 33.0.47
+
+### Patch Changes
+
+- Updated dependencies [06d4bab]
+  - @computesdk/boat@1.0.10
+
 ## 33.0.46
 
 ### Patch Changes
